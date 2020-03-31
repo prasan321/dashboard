@@ -1,0 +1,22 @@
+{
+  "name": "reactdashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasan321/dashboard.git"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "prasan karunarathne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasan321/dashboard/issues"
+  },
+  "homepage": "https://github.com/prasan321/dashboard#readme"
+}
