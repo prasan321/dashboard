@@ -435,6 +435,7 @@ function IndexPage() {
       columnNumber: 7
     }
   }, "All about Corona Virus | Click below video"), __jsx("iframe", {
+    align: "center",
     width: "420",
     height: "345",
     src: "https://www.youtube.com/embed/FL_wnudHBwk",
