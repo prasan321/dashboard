@@ -75,10 +75,31 @@ function IndexPage() {
       lineNumber: 18,
       columnNumber: 7
     }
+  }), __jsx("h1", {
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, "All about Corona Virus"), __jsx("iframe", {
+    width: "420",
+    height: "345",
+    src: "https://www.youtube.com/embed/FL_wnudHBwk",
+    frameborder: "0",
+    allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+    allowfullscreen: true,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 7
+    }
   }));
 }
 
 /***/ })
 
 })
-//# sourceMappingURL=index.js.716d8e5047488950d279.hot-update.js.map
+//# sourceMappingURL=index.js.0243d9239fb1d24c8cb0.hot-update.js.map

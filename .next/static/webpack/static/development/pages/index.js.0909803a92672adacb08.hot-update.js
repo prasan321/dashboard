@@ -75,11 +75,14 @@ function IndexPage() {
       lineNumber: 18,
       columnNumber: 7
     }
-  }), __jsx("br", {
+  }), __jsx("iframe", {
+    width: "420",
+    height: "345",
+    src: "https://www.youtube.com/embed/tgbNymZ7vqY",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19,
+      lineNumber: 20,
       columnNumber: 7
     }
   }));
@@ -88,4 +91,4 @@ function IndexPage() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.c6ffc707a03f95950bc8.hot-update.js.map
+//# sourceMappingURL=index.js.0909803a92672adacb08.hot-update.js.map

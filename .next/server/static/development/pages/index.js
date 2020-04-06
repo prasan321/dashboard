@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -426,6 +426,27 @@ function IndexPage() {
       lineNumber: 18,
       columnNumber: 7
     }
+  }), __jsx("h1", {
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, "All about Corona Virus | Click below video"), __jsx("iframe", {
+    width: "420",
+    height: "345",
+    src: "https://www.youtube.com/embed/FL_wnudHBwk",
+    frameborder: "0",
+    allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+    allowfullscreen: true,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 7
+    }
   }));
 }
 
@@ -482,7 +503,7 @@ function useStats(url) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

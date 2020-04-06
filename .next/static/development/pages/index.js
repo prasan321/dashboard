@@ -4610,6 +4610,27 @@ function IndexPage() {
       lineNumber: 18,
       columnNumber: 7
     }
+  }), __jsx("h1", {
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, "All about Corona Virus | Click below video"), __jsx("iframe", {
+    width: "420",
+    height: "345",
+    src: "https://www.youtube.com/embed/FL_wnudHBwk",
+    frameborder: "0",
+    allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+    allowfullscreen: true,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 7
+    }
   }));
 }
 
@@ -4687,7 +4708,7 @@ function useStats(url) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=G%3A%5CReact%20Project%5CReact%20Corona%20Dash%20Board%5Cpages%5Cindex.js ***!
   \******************************************************************************************************************************************/
@@ -4710,5 +4731,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

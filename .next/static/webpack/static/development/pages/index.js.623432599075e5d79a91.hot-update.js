@@ -23,7 +23,7 @@ var _jsxFileName = "G:\\React Project\\React Corona Dash Board\\pages\\index.js"
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 function _templateObject() {
-  var data = Object(_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  html {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,background: #286df7;\n  }\n"]);
+  var data = Object(_babel_runtime_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  html {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\n  }\n"]);
 
   _templateObject = function _templateObject() {
     return data;
@@ -75,10 +75,31 @@ function IndexPage() {
       lineNumber: 18,
       columnNumber: 7
     }
+  }), __jsx("h1", {
+    align: "left",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, "All about Corona Virus | Click below video"), __jsx("iframe", {
+    width: "420",
+    height: "345",
+    src: "https://www.youtube.com/embed/FL_wnudHBwk",
+    frameborder: "0",
+    allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+    allowfullscreen: true,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 7
+    }
   }));
 }
 
 /***/ })
 
 })
-//# sourceMappingURL=index.js.15cfb081f001a34dc1f9.hot-update.js.map
+//# sourceMappingURL=index.js.623432599075e5d79a91.hot-update.js.map

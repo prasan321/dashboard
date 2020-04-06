@@ -16,7 +16,10 @@ export default function IndexPage() {
       <GlobalStyle />
       <Stats url="https://covid19.mathdro.id/api"></Stats>
       <CountrySelector></CountrySelector>
+      <h1 align='left'>All about Corona Virus | Click below video</h1>
+      <iframe width="420" height="345" src="https://www.youtube.com/embed/FL_wnudHBwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+    
   );
 }
 
