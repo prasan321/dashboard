@@ -90,7 +90,6 @@ function IndexPage() {
     src: "https://www.youtube.com/embed/FL_wnudHBwk",
     frameborder: "0",
     allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-    allowfullscreen: true,
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -103,4 +102,4 @@ function IndexPage() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.3f6acc8e1029a0c2c663.hot-update.js.map
+//# sourceMappingURL=index.js.bf8d35330bbf33967673.hot-update.js.map

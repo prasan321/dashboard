@@ -4625,7 +4625,6 @@ function IndexPage() {
     src: "https://www.youtube.com/embed/FL_wnudHBwk",
     frameborder: "0",
     allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-    allowfullscreen: true,
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -4709,7 +4708,7 @@ function useStats(url) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=G%3A%5CReact%20Project%5CReact%20Corona%20Dash%20Board%5Cpages%5Cindex.js ***!
   \******************************************************************************************************************************************/
@@ -4732,5 +4731,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
